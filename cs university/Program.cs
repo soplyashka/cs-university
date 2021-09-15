@@ -7,6 +7,7 @@ namespace cs_university
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
     }
 }
