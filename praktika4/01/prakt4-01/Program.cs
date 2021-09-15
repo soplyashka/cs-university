@@ -12,7 +12,7 @@ namespace prakt4_01
         myList.Add("DIMA");
         myList.Add("ARTEM");
         myList.Add("HENESSY");
-        myList.Add("assembler");
+        myList.Add("assembler1");
         foreach (string item in myList)
         {
           Console.WriteLine("Unsorted: {0}", item);
